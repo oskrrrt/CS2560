@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 void main(int argc, char **argv) {
-	printf("Hello, my name is Oscar Bedolla!");
+	printf("Goodbye I finished my CS2560 HW1!");
 
 }
