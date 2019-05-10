@@ -1,0 +1,5 @@
+﻿  prob2.cpp
+c:\users\oskrrrt\source\repos\redoprob2midterm1\redoprob2midterm1\prob2.cpp(9): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\oskrrrt\source\repos\redoprob2midterm1\redoprob2midterm1\prob2.cpp(9): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\users\oskrrrt\source\repos\redoprob2midterm1\redoprob2midterm1\prob2.cpp(26): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Redoprob2Midterm1.vcxproj -> C:\Users\oskrrrt\source\repos\Redoprob2Midterm1\Debug\Redoprob2Midterm1.exe
