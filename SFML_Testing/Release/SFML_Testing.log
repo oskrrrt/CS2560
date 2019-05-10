@@ -1,0 +1,12 @@
+﻿  SFML_Testing.cpp
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(167): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(264): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(273): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(279): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 65 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML_Testing.vcxproj -> C:\Users\oskrrrt\source\repos\SFML_Testing\Release\SFML_Testing.exe
