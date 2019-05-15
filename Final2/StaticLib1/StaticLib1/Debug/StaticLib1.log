@@ -1,0 +1,3 @@
+﻿  BigNumbers.cpp
+c:\users\oskrrrt\source\repos\staticlib1\staticlib1\bignumbers.h(7): error C2011: 'BigNumbers': 'class' type redefinition
+  c:\users\oskrrrt\source\repos\staticlib1\staticlib1\bignumbers.h(7): note: see declaration of 'BigNumbers'
