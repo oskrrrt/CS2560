@@ -1,0 +1,30 @@
+﻿  SFML_Testing.cpp
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(451): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(578): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(586): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(588): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(597): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(606): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(621): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(626): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(630): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(636): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(640): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(644): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(649): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(653): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(657): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(663): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(667): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(671): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(676): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(683): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(687): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(691): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oskrrrt\source\repos\sfml_testing\sfml_testing.cpp(696): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 68 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML_Testing.vcxproj -> C:\Users\oskrrrt\source\repos\SFML_Testing\Release\SFML_Testing.exe
